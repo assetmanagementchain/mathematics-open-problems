@@ -1,6 +1,10 @@
-**Category:** Combinatorics → Partition Theory  
-**Difficulty:** H1  
-**Status:** Open
+---
+title: Monotonicity of the Restricted Partition Function p_k(n)
+category: Number Theory / Combinatorics
+status: Open Problem
+difficulty: H1
+---
+
 
 Problem: Monotonicity of the Restricted Partition Function p_k (n)
 
