@@ -1,3 +1,7 @@
+**Category:** Combinatorics → Partition Theory  
+**Difficulty:** H1  
+**Status:** Open
+
 Problem: Monotonicity of the Restricted Partition Function p_k (n)
 
 For a fixed positive integer k≥2, define the restricted partition function
