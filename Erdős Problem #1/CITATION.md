@@ -21,7 +21,7 @@ url = {https://github.com/
 
 ## Attribution & Usage Notes
 
-- This repository presents original structural methods and reduction operators authored by Xu Robert (2025).
+- This repository presents original structural methods and reduction operators authored by Xu Xin (2025).
 - You are free to fork and use the repository under the terms of the LICENSE file.
 - If you publish results that rely materially on ideas from this repository (proof architecture,
   operators, or reductions), please include an explicit acknowledgement and citation.
