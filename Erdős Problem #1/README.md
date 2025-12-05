@@ -8,7 +8,12 @@ https://www.erdosproblems.com/forum/thread/1
 
 Instead, it presents a **full architectural framework** including:
 
-- a *finite reduction* (showing any counterexample must satisfy \( N \le 184 \))
+- a *finite reduction* ,showing any counterexample must satisfy
+
+$$
+N \le 184.
+$$
+
 - a *local additive-structure lemma* (Freiman-type)
 - an *energy → Fourier spectrum constraint*
 - a *classification of candidate configurations*
