@@ -87,7 +87,7 @@ Tags: additive basis
 
 Prize: $500
 
-Problem #41
+Problem #41（H3/H4）
 
 🔗 https://www.erdosproblems.com/41
 
@@ -95,7 +95,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: $500
 
-Problem #42
+Problem #42（H3）
 
 🔗 https://www.erdosproblems.com/42
 
@@ -103,7 +103,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: no
 
-Problem #43
+Problem #432（H3）
 
 🔗 https://www.erdosproblems.com/43
 
@@ -119,7 +119,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: no
 
-Problem #52
+Problem #52（H2.5）
 
 🔗 https://www.erdosproblems.com/52
 
@@ -135,7 +135,7 @@ Tags: additive basis
 
 Prize: $500
 
-Problem #138
+Problem #138（H2.5）
 
 🔗 https://www.erdosproblems.com/138
 
@@ -151,7 +151,7 @@ Tags: unit fractions
 
 Prize: no
 
-Problem #155
+Problem #155（H2.5）
 
 🔗 https://www.erdosproblems.com/155
 
@@ -159,7 +159,7 @@ Tags: additive combinatorics, sidon sets
 
 Prize: no
 
-Problem #160
+Problem #160（H2.5）
 
 🔗 https://www.erdosproblems.com/160
 
