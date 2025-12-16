@@ -29,7 +29,7 @@ Prize: no
 
 H2 理由：结构型 + Sidon + additive，不含 primes / hypergraphs / set theory。
 
-Problem #28（H2）
+Problem #28（H2）(Solved）
 
 🔗 https://www.erdosproblems.com/28
 
@@ -55,7 +55,7 @@ Tags: additive basis
 
 Prize: no
 
-Problem #33（H2）
+Problem #33（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/33
 
@@ -111,7 +111,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: $100
 
-Problem #44
+Problem #44（H2.5-H3）
 
 🔗 https://www.erdosproblems.com/44
 
@@ -119,7 +119,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: no
 
-Problem #52（H2.5）
+Problem #52（H4）
 
 🔗 https://www.erdosproblems.com/52
 
