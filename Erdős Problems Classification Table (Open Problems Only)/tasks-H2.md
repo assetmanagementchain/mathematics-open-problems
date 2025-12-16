@@ -9,7 +9,7 @@ A. Additive combinatorics / additive basis / Sidon / unit fractions（主战场�
 
 这些是最贴合我们已经用在 Problem #1 的 PathMath/FVD 风格的结构类问题：
 
-Problem #1（Solved）
+Problem #1（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/1
 
@@ -19,7 +19,7 @@ Prize: $500
 
 H-level: H2（已完成主证明，当前处于“整理 &发布”阶段）
 
-Problem #14（Solved）
+Problem #14（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/14
 
@@ -29,7 +29,7 @@ Prize: no
 
 H2 理由：结构型 + Sidon + additive，不含 primes / hypergraphs / set theory。
 
-Problem #28
+Problem #28（H2）
 
 🔗 https://www.erdosproblems.com/28
 
@@ -47,7 +47,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: $1000（边界偏高，但结构还是 H2 型，可视作 H2.5）
 
-Problem #32
+Problem #32（H3–H4）
 
 🔗 https://www.erdosproblems.com/32
 
@@ -55,7 +55,7 @@ Tags: additive basis
 
 Prize: no
 
-Problem #33
+Problem #33（H2）
 
 🔗 https://www.erdosproblems.com/33
 
@@ -63,7 +63,7 @@ Tags: additive basis
 
 Prize: no
 
-Problem #36
+Problem #36（H2）
 
 🔗 https://www.erdosproblems.com/36
 
@@ -71,7 +71,7 @@ Tags: additive combinatorics
 
 Prize: no
 
-Problem #39（Solved）
+Problem #39（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/39
 
@@ -79,7 +79,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: $500
 
-Problem #40
+Problem #40（H2）
 
 🔗 https://www.erdosproblems.com/40
 
@@ -103,7 +103,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: no
 
-Problem #432（H3）
+Problem #43（H3）
 
 🔗 https://www.erdosproblems.com/43
 
