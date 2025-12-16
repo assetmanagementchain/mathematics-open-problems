@@ -9,7 +9,7 @@ A. Additive combinatorics / additive basis / Sidon / unit fractions（主战场�
 
 这些是最贴合我们已经用在 Problem #1 的 PathMath/FVD 风格的结构类问题：
 
-Problem #1
+Problem #1（Solved）
 
 🔗 https://www.erdosproblems.com/1
 
@@ -19,7 +19,7 @@ Prize: $500
 
 H-level: H2（已完成主证明，当前处于“整理 &发布”阶段）
 
-Problem #14
+Problem #14（Solved）
 
 🔗 https://www.erdosproblems.com/14
 
@@ -39,7 +39,7 @@ Prize: $500
 
 H2 理由：典型 additive basis 结构问题，工具较标准。
 
-Problem #30
+Problem #30（Solved）
 
 🔗 https://www.erdosproblems.com/30
 
@@ -73,7 +73,7 @@ Prize: no
 
 Problem #39
 
-🔗 https://www.erdosproblems.com/39
+🔗 https://www.erdosproblems.com/39（Solved）
 
 Tags: sidon sets, additive combinatorics
 
