@@ -39,7 +39,7 @@ Prize: $500
 
 H2 理由：典型 additive basis 结构问题，工具较标准。
 
-Problem #30（Solved）
+Problem #30（H2.5)(Solved）
 
 🔗 https://www.erdosproblems.com/30
 
