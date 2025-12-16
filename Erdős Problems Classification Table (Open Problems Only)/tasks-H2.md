@@ -63,7 +63,7 @@ Tags: additive basis
 
 Prize: no
 
-Problem #36（H2）
+Problem #36（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/36
 
