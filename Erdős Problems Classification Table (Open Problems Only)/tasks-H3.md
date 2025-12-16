@@ -8,21 +8,6 @@ Problem #70
 Tags: graph theory, ramsey theory, set theory
 Prize: no
 
-Problem #74
-🔗 https://www.erdosproblems.com/74
-Tags: graph theory, chromatic number, cycles
-Prize: $500
-
-Problem #77
-🔗 https://www.erdosproblems.com/77
-Tags: graph theory, ramsey theory
-Prize: $250
-
-Problem #80
-🔗 https://www.erdosproblems.com/80
-Tags: graph theory, ramsey theory
-Prize: no
-
 Problem #111
 🔗 https://www.erdosproblems.com/111
 Tags: graph theory, chromatic number, set theory
