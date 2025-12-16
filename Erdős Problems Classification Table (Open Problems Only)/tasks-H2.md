@@ -19,7 +19,7 @@ Prize: $500
 
 H-level: H2（已完成主证明，当前处于“整理 &发布”阶段）
 
-Problem #14（H2）（Solved）
+Problem #14（H3/H4）
 
 🔗 https://www.erdosproblems.com/14
 
