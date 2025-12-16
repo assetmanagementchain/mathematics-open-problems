@@ -71,9 +71,9 @@ Tags: additive combinatorics
 
 Prize: no
 
-Problem #39
+Problem #39（Solved）
 
-🔗 https://www.erdosproblems.com/39（Solved）
+🔗 https://www.erdosproblems.com/39
 
 Tags: sidon sets, additive combinatorics
 
