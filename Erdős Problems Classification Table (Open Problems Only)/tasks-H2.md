@@ -79,7 +79,7 @@ Tags: sidon sets, additive combinatorics
 
 Prize: $500
 
-Problem #40（H2）
+Problem #40（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/40
 
