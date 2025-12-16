@@ -135,7 +135,7 @@ Tags: additive basis
 
 Prize: $500
 
-Problem #138（H2.5）
+Problem #138（H4）
 
 🔗 https://www.erdosproblems.com/138
 
@@ -143,7 +143,7 @@ Tags: additive combinatorics
 
 Prize: $500
 
-Problem #148
+Problem #148（H2.5）
 
 🔗 https://www.erdosproblems.com/148
 
