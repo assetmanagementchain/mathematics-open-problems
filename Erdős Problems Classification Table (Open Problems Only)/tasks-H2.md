@@ -49,11 +49,11 @@ Problem #66（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/66
 
-Problem #138（H4）（结构性不可能性）
+Problem #138（H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/138
 
-Problem #148（H2.5）（部分Solved）
+Problem #148（H3）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/148
 
@@ -61,23 +61,23 @@ Problem #155（H3-H4）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/155
 
-Problem #160（H2.5）（部分Solved）
+Problem #160（H3）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/160
 
-Problem #89（H3.5-H4）
+Problem #89（H3.5-H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/89
 
-Problem #90（H4）
+Problem #90（H3）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/90
 
-Problem #91（H4）
+Problem #91（H3）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/91
 
-Problem #92（H4）
+Problem #92（H3-H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/92
 
@@ -85,27 +85,27 @@ Problem #96（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/96
 
-Problem #98（H4）
+Problem #98（H3）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/98
 
-Problem #99（H3-H4）（结构性不可能性）
+Problem #99（H3-H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/99
 
-Problem #100（H3.5）
+Problem #100（H3）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/100
 
-Problem #101（H3）（部分Solved）
+Problem #101（H3）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/101
 
-Problem #102（H3-H4）（结构性不可能性）
+Problem #102（H3-H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/102
 
-Problem #103（H4）
+Problem #103（H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/103
 
