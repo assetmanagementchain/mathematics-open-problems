@@ -57,7 +57,7 @@ Problem #148（H2.5）（部分Solved）
 
 🔗 https://www.erdosproblems.com/148
 
-Problem #155（H3-H4）
+Problem #155（H3-H4）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/155
 
