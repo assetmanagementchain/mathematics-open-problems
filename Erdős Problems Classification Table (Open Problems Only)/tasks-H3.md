@@ -18,6 +18,10 @@ Problem #112（H4）
 Tags: graph theory, ramsey theory
 Prize: no
 
+Problem #124（结构性不可能性）
+🔗 https://www.erdosproblems.com/124
+
+
 Problem #129
 🔗 https://www.erdosproblems.com/129
 Tags: graph theory, ramsey theory
