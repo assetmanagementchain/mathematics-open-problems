@@ -1,15 +1,15 @@
-Problem #3
-🔗 https://www.erdosproblems.com/3（H4）
+Problem #3（H4）
+🔗 https://www.erdosproblems.com/3
 Tags: number theory, additive combinatorics, arithmetic progressions
 Prize: $5000
 
-Problem #70
-🔗 https://www.erdosproblems.com/70（H4）
+Problem #70（H4）
+🔗 https://www.erdosproblems.com/70
 Tags: graph theory, ramsey theory, set theory
 Prize: no
 
-Problem #111
-🔗 https://www.erdosproblems.com/111（H3-H4）
+Problem #111（H3-H4）
+🔗 https://www.erdosproblems.com/111
 Tags: graph theory, chromatic number, set theory
 Prize: no
 
