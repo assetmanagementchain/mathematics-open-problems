@@ -37,11 +37,11 @@ Problem #40（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/40
 
-Problem #44（H4）
+Problem #44（H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/44
 
-Problem #52（H4）
+Problem #52（H4）（没有科学的证明方法）
 
 🔗 https://www.erdosproblems.com/52
 
