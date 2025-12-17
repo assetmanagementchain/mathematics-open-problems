@@ -25,20 +25,20 @@ Under IPC abstraction, these are confirmed H2.
 
 ### Downgraded Problems
 
-- Erdős #18
-- Erdős #34
-- Erdős #37
-- Erdős #45
-- Erdős #47
-- Erdős #50
-- Erdős #54
-- Erdős #57
-- Erdős #59
-- Erdős #62
-- Erdős #69
-- Erdős #71
-- Erdős #74
-- Erdős #77
+- Erdős #18（H3-H4）
+- Erdős #34（H2）
+- Erdős #37（H3）
+- Erdős #45（H2）
+- Erdős #47（H2）
+- Erdős #50（H3）
+- Erdős #54（H2）
+- Erdős #57（H2）
+- Erdős #59（H3）
+- Erdős #62（H3）
+- Erdős #69（H2）
+- Erdős #71（H2.5）
+- Erdős #74（H4）
+- Erdős #77（H4）
 
 ### Status
 
@@ -55,16 +55,16 @@ rather than genuine instability.
 
 ### Downgraded Problems
 
-- Erdős #20
-- Erdős #24
-- Erdős #29
-- Erdős #31
-- Erdős #35
-- Erdős #38
-- Erdős #46
-- Erdős #48
-- Erdős #53
-- Erdős #58
+- Erdős #20（H3-H3.5）
+- Erdős #24（H2）
+- Erdős #29（H2）
+- Erdős #31（H2）
+- Erdős #35（H2）
+- Erdős #38（H3）
+- Erdős #46（H2）
+- Erdős #48（H2）
+- Erdős #53（H2）
+- Erdős #58（H2）
 
 ### Status
 
@@ -80,12 +80,12 @@ Finite-template problems misidentified as deep Ramsey phenomena.
 
 ### Downgraded Problems
 
-- Erdős #60
-- Erdős #63
-- Erdős #67
-- Erdős #72
-- Erdős #75
-- Erdős #80
+- Erdős #60（H3）
+- Erdős #63（H2）
+- Erdős #67（H2）
+- Erdős #72（H2）
+- Erdős #75（H3）
+- Erdős #80（H3.5）
 
 ### Status
 
