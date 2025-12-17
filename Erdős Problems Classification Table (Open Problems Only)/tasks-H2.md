@@ -49,7 +49,7 @@ Problem #66（H2）（Solved）
 
 🔗 https://www.erdosproblems.com/66
 
-Problem #138（H4）
+Problem #138（H4）（结构性不可能性）
 
 🔗 https://www.erdosproblems.com/138
 
@@ -89,7 +89,7 @@ Problem #98（H4）
 
 🔗 https://www.erdosproblems.com/98
 
-Problem #99（H3-H4）
+Problem #99（H3-H4）（结构性不可能性）
 
 🔗 https://www.erdosproblems.com/99
 
@@ -101,7 +101,7 @@ Problem #101（H3）（部分Solved）
 
 🔗 https://www.erdosproblems.com/101
 
-Problem #102（H3-H4）
+Problem #102（H3-H4）（结构性不可能性）
 
 🔗 https://www.erdosproblems.com/102
 
@@ -109,7 +109,7 @@ Problem #103（H4）
 
 🔗 https://www.erdosproblems.com/103
 
-Problem #104（H3）（部分Solved）
+Problem #104（H3）（严格否定与条件成立）
 
 🔗 https://www.erdosproblems.com/104
 
